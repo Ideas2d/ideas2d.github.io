@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ideas2d.com/sitemap.xml
